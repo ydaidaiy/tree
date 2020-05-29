@@ -1,13 +1,14 @@
 <!--
  * @Author: dull_
  * @Date: 2020-05-29 14:47:46
- * @LastEditTime: 2020-05-29 14:53:29
+ * @LastEditTime: 2020-05-29 15:52:29
  * @LastEditors: dull_
  * @Description: 
  * @FilePath: \tree_demo\src\App.vue
  * @
 --> 
 <script>
+import './common/icon.css'
 export default {
   onLaunch: function() {
     console.log("App Launch");
@@ -27,3 +28,4 @@ export default {
 @tailwind components;
 @tailwind utilities;
 </style>
+<style src=''></style>
