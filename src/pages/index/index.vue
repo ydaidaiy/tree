@@ -1,3 +1,12 @@
+<!--
+ * @Author: dull_
+ * @Date: 2020-05-29 14:47:46
+ * @LastEditTime: 2020-05-29 14:59:18
+ * @LastEditors: dull_
+ * @Description: 
+ * @FilePath: \tree_demo\src\pages\index\index.vue
+ * @
+--> 
 <template>
 	<view class="content">
 		<image class="logo" src="/static/logo.png"></image>
